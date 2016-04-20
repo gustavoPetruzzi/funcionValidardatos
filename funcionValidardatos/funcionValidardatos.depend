@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461184607 source:i:\documents and settings\gustavo\escritorio\c\funcionvalidardatos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1461185399 source:i:\documents and settings\gustavo\escritorio\c\funcionvalidardatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1461182526 i:\documents and settings\gustavo\escritorio\c\funcionvalidardatos\funciones.h
+
